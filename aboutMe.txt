@@ -2,5 +2,3 @@ My name: Yuzheng (Isaac) Wu
 Major: Computer Science and Engineering
 Year: Senior
 Hobbies: Board Games
-
-COEN 174, COEN 175, COEN 315, COEN 196, RSOC 114
